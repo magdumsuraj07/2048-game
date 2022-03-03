@@ -113,4 +113,5 @@ class Game2048(Frame):
                                         )
 
 
-gamegrid = Game2048()
+if __name__ == '__main__':
+    gamegrid = Game2048()
