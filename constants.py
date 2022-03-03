@@ -35,10 +35,10 @@ CELL_COLOR_DICT = {
 
 FONT = ("Verdana", 40, "bold")
 
-KEY_UP = "w"
-KEY_DOWN = "s"
-KEY_LEFT = "a"
-KEY_RIGHT = "d"
+KEY_UP = "'w'"
+KEY_DOWN = "'s'"
+KEY_LEFT = "'a'"
+KEY_RIGHT = "'d'"
 
 
 # Logic Constants
